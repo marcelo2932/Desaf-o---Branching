@@ -43,6 +43,21 @@ form {
   border-radius: 20px;
   box-shadow: 0 6px #2E282A;
 }
+.btn1 {
+  color: white;
+  font-size: 2rem;
+  font-weight: 200;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  display: block;
+  position: relative;
+  background-color: #fa2706;
+  padding: 20px 20px;
+  margin: 0 auto;
+  border-radius: 40px;
+  box-shadow: 0 6px #2E282A;
+}
   
 .btn a {
     color: white;
